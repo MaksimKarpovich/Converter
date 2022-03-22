@@ -1,0 +1,14 @@
+E:\project\Visual\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.exe
+E:\project\Visual\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.deps.json
+E:\project\Visual\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.json
+E:\project\Visual\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.dev.json
+E:\project\Visual\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.dll
+E:\project\Visual\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.pdb
+E:\project\Visual\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.AssemblyReference.cache
+E:\project\Visual\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Visual\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfoInputs.cache
+E:\project\Visual\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfo.cs
+E:\project\Visual\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.CoreCompileInputs.cache
+E:\project\Visual\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.dll
+E:\project\Visual\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.pdb
+E:\project\Visual\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.genruntimeconfig.cache
