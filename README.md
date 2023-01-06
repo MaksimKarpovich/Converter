@@ -2,7 +2,7 @@
 
 Convert a number from decimal to base from 2 to 20.
 
-##Conversion Information
+## Conversion Information
 
 To write the algorithm, a table of conversions to a hexadecimal system was used.By analogy, we continue the table for 20 bit numbers:
 
